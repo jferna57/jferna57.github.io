@@ -4,16 +4,6 @@
     <title>Blog de jferna57</title>
     <link>https://jferna57.github.io/</link>
     <description>Recent content on Blog de jferna57</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 15:52:03 +0100</lastBuildDate><atom:link href="https://jferna57.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My first Post!</title>
-      <link>https://jferna57.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 18 Feb 2022 15:52:03 +0100</pubDate>
-      
-      <guid>https://jferna57.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jferna57.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
