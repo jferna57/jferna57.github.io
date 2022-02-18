@@ -1,4 +1,22 @@
-baseURL: http://jferna57.github.io
-languageCode: es-es
+baseURL: "http://jferna57.github.io"
 title: "Blog de jferna57"
 theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
